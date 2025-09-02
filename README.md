@@ -1,5 +1,5 @@
 # 💫 Hola! I'm Jorge, a systems administrator
-- Finishing my studies abroad in Wroclaw, Poland as apart of an Erasmus+ Internship in the cybersecurity team of Ulan Systems.<br>
+- Finished my studies abroad in Wroclaw, Poland as apart of an Erasmus+ Internship in the cybersecurity team of Ulan Systems.<br>
 - Currently working on DockHost, a web hosting infrastructure with a per tenant docker services stack.<br>
 
 
